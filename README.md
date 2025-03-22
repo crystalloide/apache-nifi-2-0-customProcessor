@@ -31,16 +31,16 @@ https://www.youtube.com/@renato-coelho
 ## Déployer l'application
 
 
-### Clonando ou dépôt
+### Clonage du dépôt
 
 ```bash
 clone git https://github.com/Renatoelho/apache-nifi-2-0-container.git apache-nifi-2-0-container
 ```
 
 
-### Préparer l'ambiance
+### Prérequis 
 
-+ Accéder au diretório clonage
++ Accéder au répertoire clôné
 ```bash
 cd apache-nifi-2-0-conteneur/
 ```
