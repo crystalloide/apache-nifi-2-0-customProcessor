@@ -1,7 +1,7 @@
 # Apache NiFi 2 : construire des processus avec Python
 
 
-L'utilisation de ***Python*** sans ***Apache NiFi 2*** vous permet de faire appel à des processus ***personnalisés*** pour manipuler, transformer et analyser des données de forme spécifique. Cela signifie que, en plus des processeurs connectés au NiFi, vous pouvez écrire ***son propre code*** Python pour réaliser des tarifications qui répondent à vos besoins spécifiques de ***processus de données***, comme le filtrage, l'agrégation, l'enriqueciment ou le formatage de données. Avec Python, vous avez une ***flexibilité*** et vous pouvez personnaliser davantage les données traitées et traitées dans votre flux, en améliorant la ***simplicité*** et la vaste gamme de bibliothèques disponibles dans le ***linguage***.
+L'utilisation de ***Python*** sans ***Apache NiFi 2*** vous permet de faire appel à des processus ***personnalisés*** pour manipuler, transformer et analyser des données de forme spécifique. Cela signifie que, en plus des processeurs connectés au NiFi, vous pouvez écrire ***son propre code*** Python pour réaliser des tarifications qui répondent à vos besoins spécifiques de ***processus de données***, comme le filtrage, l'agrégation, l'enriqueciment ou le formatage de données. Avec Python, vous avez une ***flexibilité*** et vous pouvez personnaliser davantage les données traitées et traitées dans votre flux, en améliorant la ***simplicité*** et la vaste gamme de bibliothèques disponibles dans le ***langage***.
 
 
 <!--
@@ -45,7 +45,7 @@ clone git https://github.com/Renatoelho/apache-nifi-2-0-container.git apache-nif
 cd apache-nifi-2-0-conteneur/
 ```
 
-+ Ativando ou Apache Nifi
++ Lancement de l'environnement Apache Nifi
 ```bash
 docker compose -p apache-nifi-2 -f docker-compose.yaml up -d
 ```
